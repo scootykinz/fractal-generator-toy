@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://scootykinz.github.io/fractal-generator-toy/static/css/main.c73d5b69.css",
+    "main.js": "https://scootykinz.github.io/fractal-generator-toy/static/js/main.37bff235.js",
+    "static/js/453.abc4529d.chunk.js": "https://scootykinz.github.io/fractal-generator-toy/static/js/453.abc4529d.chunk.js",
+    "index.html": "https://scootykinz.github.io/fractal-generator-toy/index.html",
+    "main.c73d5b69.css.map": "https://scootykinz.github.io/fractal-generator-toy/static/css/main.c73d5b69.css.map",
+    "main.37bff235.js.map": "https://scootykinz.github.io/fractal-generator-toy/static/js/main.37bff235.js.map",
+    "453.abc4529d.chunk.js.map": "https://scootykinz.github.io/fractal-generator-toy/static/js/453.abc4529d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c73d5b69.css",
+    "static/js/main.37bff235.js"
+  ]
+}
